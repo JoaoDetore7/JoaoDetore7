@@ -7,7 +7,7 @@
   <a href="https://github.com/JoaoDetore7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDetore7&layout=compact&theme=dark)](https://github.com/JoaoDetore7/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDeetore7&layout=compact&theme=dark)](https://github.com/JoaoDetore7/github-readme-stats)
 </div>
   
   
