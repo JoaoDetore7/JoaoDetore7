@@ -17,5 +17,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  ![Snake animation](https://github.com/JoaoDetore7/JoaoDetore7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoaoDetore7/JoaoDetore7/dist/github-contribution-grid-snake.svg)
 </div>
