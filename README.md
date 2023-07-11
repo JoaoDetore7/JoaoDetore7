@@ -3,8 +3,8 @@
 
  <div>
   <a href="https://github.com/JoaoDetore7">
-   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoDetore7&theme=dracula&line_height=40&hide=css"/> </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoDetore7&theme=dracula&line_height=40&hide=css"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
