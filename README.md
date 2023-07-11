@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/JoaoDetore7">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDetore7&layout=compact&langs_count=16&theme=dracula"/>
+   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoDetore7&theme=dracula&line_height=40&hide=css"/> </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
