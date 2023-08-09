@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, eu sou o João Detore </h1>
 <div align="left">
-- Estudando JavaScript && Ruby; </p>
+- Estudando JavaScript || Ruby || C; </p>
 </div>
 
 <div align="left">
