@@ -1,45 +1,36 @@
-<h1 align="center">Hello, I'm João Detore 👋</h1>
+<h1 align="left"> Hello, I'm JoãoDetore. </h1>
+<div align="left">
+  - Web Developer || Automation
+</div>
 
-<p align="center">
-  <img src="https://github.com/JoaoDetore7.png" width="180px" style="border-radius:50%" />
-</p>
+<div align="left">
+  <a href="#">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues" />
+  </a>
+  <a href="#">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDetore7&amp;theme=dracula&amp;line_height=40&amp;hide=css" />
+  </a>
+</div>
 
-<p align="center">
-  💻 Web Developer | ⚙ Automation | 🚀 Problem Solver
-</p>
+## Skills
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+</div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDetore7&layout=compact&theme=dracula&cache_seconds=86400"/>
-</p>
-
----
-
-## 🛠 Skills
-
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
+## Contact
+<div>
   <a href="https://www.linkedin.com/in/joao-detore-842b81200" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>
   <a href="mailto:joaodetore7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
   </a>
-</p>
+</div>
