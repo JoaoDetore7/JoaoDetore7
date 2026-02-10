@@ -3,24 +3,6 @@
   - Web Developer || Automation
 </div>
 
-<div align="left">
-  <a href="#">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=JoaoDetore7&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues"
-      alt="JoaoDetore7 GitHub stats"
-    />
-  </a>
-
-  <a href="#">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDetore7&amp;theme=dracula&amp;layout=compact&amp;hide=css"
-      alt="Top languages"
-    />
-  </a>
-</div>
-
 ## Skills
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
